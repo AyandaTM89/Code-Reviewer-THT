@@ -1,3 +1,6 @@
 A link to my projects:
+
+https://github.com/AyandaTM89/Python-Capstones-Projects-/blob/main/inventory.py
+https://github.com/AyandaTM89/Level-2-Capstone-3
 https://github.com/AyandaTM89/JAVA-PROJECTS
 https://github.com/AyandaTM89/Python-Capstones-Projects-
